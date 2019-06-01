@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: cb04b3f573addd64cad36577ed446df3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base_buffet
+    100002: //RootNode
+    100004: milieu_armoire
+    100006: partie_haute_armoire
+    100008: Petite_armoire003
+    100010: Poignet_placard_Gauche_Haut015
+    100012: Poignet_placard_Gauche_Haut016
+    100014: Poignet_placard_Gauche_Haut017
+    100016: Poignet_placard_Gauche_Haut018
+    100018: Poignet_placard_Gauche_Haut019
+    100020: Poignet_placard_Gauche_Haut020
+    100022: Poignet_placard_Gauche_Haut021
+    100024: tiroir_1
+    100026: tirroir_2
+    100028: tirroir_3
+    100030: tirroir_4
+    100032: tirroir_5
+    100034: tirroir_6
+    100036: tirroir_7
+    400000: Base_buffet
+    400002: //RootNode
+    400004: milieu_armoire
+    400006: partie_haute_armoire
+    400008: Petite_armoire003
+    400010: Poignet_placard_Gauche_Haut015
+    400012: Poignet_placard_Gauche_Haut016
+    400014: Poignet_placard_Gauche_Haut017
+    400016: Poignet_placard_Gauche_Haut018
+    400018: Poignet_placard_Gauche_Haut019
+    400020: Poignet_placard_Gauche_Haut020
+    400022: Poignet_placard_Gauche_Haut021
+    400024: tiroir_1
+    400026: tirroir_2
+    400028: tirroir_3
+    400030: tirroir_4
+    400032: tirroir_5
+    400034: tirroir_6
+    400036: tirroir_7
+    2100000: Base_buffet
+    2100002: Petite_armoire003
+    2100004: partie_haute_armoire
+    2100006: milieu_armoire
+    2100008: tiroir_1
+    2100010: Poignet_placard_Gauche_Haut015
+    2100012: tirroir_2
+    2100014: Poignet_placard_Gauche_Haut016
+    2100016: tirroir_3
+    2100018: Poignet_placard_Gauche_Haut017
+    2100020: tirroir_4
+    2100022: Poignet_placard_Gauche_Haut018
+    2100024: tirroir_5
+    2100026: tirroir_6
+    2100028: tirroir_7
+    2100030: Poignet_placard_Gauche_Haut019
+    2100032: Poignet_placard_Gauche_Haut020
+    2100034: Poignet_placard_Gauche_Haut021
+    2300000: Base_buffet
+    2300002: milieu_armoire
+    2300004: partie_haute_armoire
+    2300006: Petite_armoire003
+    2300008: Poignet_placard_Gauche_Haut015
+    2300010: Poignet_placard_Gauche_Haut016
+    2300012: Poignet_placard_Gauche_Haut017
+    2300014: Poignet_placard_Gauche_Haut018
+    2300016: Poignet_placard_Gauche_Haut019
+    2300018: Poignet_placard_Gauche_Haut020
+    2300020: Poignet_placard_Gauche_Haut021
+    2300022: tiroir_1
+    2300024: tirroir_2
+    2300026: tirroir_3
+    2300028: tirroir_4
+    2300030: tirroir_5
+    2300032: tirroir_6
+    2300034: tirroir_7
+    3300000: Base_buffet
+    3300002: milieu_armoire
+    3300004: partie_haute_armoire
+    3300006: Petite_armoire003
+    3300008: Poignet_placard_Gauche_Haut015
+    3300010: Poignet_placard_Gauche_Haut016
+    3300012: Poignet_placard_Gauche_Haut017
+    3300014: Poignet_placard_Gauche_Haut018
+    3300016: Poignet_placard_Gauche_Haut019
+    3300018: Poignet_placard_Gauche_Haut020
+    3300020: Poignet_placard_Gauche_Haut021
+    3300022: tiroir_1
+    3300024: tirroir_2
+    3300026: tirroir_3
+    3300028: tirroir_4
+    3300030: tirroir_5
+    3300032: tirroir_6
+    3300034: tirroir_7
+    4300000: Base_buffet
+    4300002: Petite_armoire003
+    4300004: partie_haute_armoire
+    4300006: milieu_armoire
+    4300008: tiroir_1
+    4300010: Poignet_placard_Gauche_Haut015
+    4300012: tirroir_2
+    4300014: Poignet_placard_Gauche_Haut016
+    4300016: tirroir_3
+    4300018: Poignet_placard_Gauche_Haut017
+    4300020: tirroir_4
+    4300022: Poignet_placard_Gauche_Haut018
+    4300024: tirroir_5
+    4300026: tirroir_6
+    4300028: tirroir_7
+    4300030: Poignet_placard_Gauche_Haut019
+    4300032: Poignet_placard_Gauche_Haut020
+    4300034: Poignet_placard_Gauche_Haut021
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

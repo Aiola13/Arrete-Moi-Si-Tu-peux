@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: d35360880027eba42ac16e8918701d3b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base_Table_ronde
+    100002: Chaise
+    100004: Commode
+    100006: Commode_box
+    100008: Coussin_pannier_chat
+    100010: Dessus_table_ronde
+    100012: lampe
+    100014: Lampe_cone
+    100016: Pannier_chat
+    100018: Poignee_commode
+    100020: //RootNode
+    100022: Tirroir_commode
+    400000: Base_Table_ronde
+    400002: Chaise
+    400004: Commode
+    400006: Commode_box
+    400008: Coussin_pannier_chat
+    400010: Dessus_table_ronde
+    400012: lampe
+    400014: Lampe_cone
+    400016: Pannier_chat
+    400018: Poignee_commode
+    400020: //RootNode
+    400022: Tirroir_commode
+    2100000: Pannier_chat
+    2100002: Coussin_pannier_chat
+    2100004: Commode
+    2100006: Commode_box
+    2100008: Tirroir_commode
+    2100010: Poignee_commode
+    2100012: lampe
+    2100014: Lampe_cone
+    2100016: Dessus_table_ronde
+    2100018: Base_Table_ronde
+    2100020: Chaise
+    2300000: Base_Table_ronde
+    2300002: Chaise
+    2300004: Commode
+    2300006: Commode_box
+    2300008: Coussin_pannier_chat
+    2300010: Dessus_table_ronde
+    2300012: lampe
+    2300014: Lampe_cone
+    2300016: Pannier_chat
+    2300018: Poignee_commode
+    2300020: Tirroir_commode
+    3300000: Base_Table_ronde
+    3300002: Chaise
+    3300004: Commode
+    3300006: Commode_box
+    3300008: Coussin_pannier_chat
+    3300010: Dessus_table_ronde
+    3300012: lampe
+    3300014: Lampe_cone
+    3300016: Pannier_chat
+    3300018: Poignee_commode
+    3300020: Tirroir_commode
+    4300000: Pannier_chat
+    4300002: Coussin_pannier_chat
+    4300004: Commode
+    4300006: Commode_box
+    4300008: Tirroir_commode
+    4300010: Poignee_commode
+    4300012: lampe
+    4300014: Lampe_cone
+    4300016: Dessus_table_ronde
+    4300018: Base_Table_ronde
+    4300020: Chaise
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Table_ronde
+    second: {fileID: 2100000, guid: ebc122e50c053594b927eb87b5d4841d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chaise
+    second: {fileID: 2100000, guid: 23b09847a4e42344f9047d1b5709b132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Commode
+    second: {fileID: 2100000, guid: d11f0a3b46a952b4891963bf5c68934c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Commode_box
+    second: {fileID: 2100000, guid: 28459cd1a0816e54592f62ae415bc5d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coussin_pannier_chat
+    second: {fileID: 2100000, guid: 0dd31573781789643a2221c2dcbef3fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dessus_table_ronde
+    second: {fileID: 2100000, guid: 08dabdb85acb52b4db6391a1c2700b96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampe_cone
+    second: {fileID: 2100000, guid: c292972d8c3dedf408de969ef95dcb8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pannier_chat
+    second: {fileID: 2100000, guid: 3ee341883ef9206449316006779e80c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poignee_commode
+    second: {fileID: 2100000, guid: 3fe559f58eb3c1b4c8082f0e85434000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tirroir_commode
+    second: {fileID: 2100000, guid: 2c9fa40f87fb7fa4f86c7540f07cbdeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lampe
+    second: {fileID: 2100000, guid: 0bb295d9f961c2e4d9046fbb4cb32a6a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
