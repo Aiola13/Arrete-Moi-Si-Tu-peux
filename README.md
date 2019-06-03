@@ -9,6 +9,10 @@ J'ai particpé à :
 
 ► une partie du texturing via Substance Painter
 
+## Idée
+
+Un peu du genre à un Tom & Jerry, vous devez réparer les dégats causés par une sourie tout en posant des pièges pour pouvoir l'attraper.
+
 ## Infos
 
 ► Le jeu se joue exclusivement à la manette.
