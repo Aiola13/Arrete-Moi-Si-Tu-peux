@@ -1,6 +1,8 @@
 # Arrete Moi Si Tu Peux
 
-Arrête moi si tu peux, est un jeu créer pour l'évenement du GobalGameJam 2019 sur Arles. 
+Arrête moi si tu peux, est un jeu créer pour l'évenement du GobalGameJam 2019 sur Arles sous le thème suivant # Home Sweet Home. 
+
+
 J'ai particpé à : 
 
 ► une partie du développement du comportement de la sourie et du gameplay
