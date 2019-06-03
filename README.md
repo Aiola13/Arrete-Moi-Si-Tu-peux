@@ -4,6 +4,7 @@ Arrête moi si tu peux, est un jeu créer pour l'évenement du GobalGameJam 2019
 J'ai particpé à : 
 
 ► une partie du développement du comportement de la sourie et du gameplay
+
 ► une partie du texturing via Substance Painter
 
 ## Infos
